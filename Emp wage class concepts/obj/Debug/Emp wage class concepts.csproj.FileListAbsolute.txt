@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\bin\Debug\Emp wage class concepts.exe.config
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\bin\Debug\Emp wage class concepts.exe
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\bin\Debug\Emp wage class concepts.pdb
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\obj\Debug\Emp wage class concepts.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\obj\Debug\Emp wage class concepts.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\obj\Debug\Emp wage class concepts.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\obj\Debug\Emp wage class concepts.exe
+C:\Users\amakuma6\source\repos\Emp wage class concepts\Emp wage class concepts\obj\Debug\Emp wage class concepts.pdb
